@@ -52,11 +52,11 @@ nav li a:hover{
 }
 
 main{
-    width: 960px;
-    /* margin: 30px auto;
-    display: inline-block; */
+    /* width: 960px; */
+    margin: 30px auto;
+    display: inline-block;
     /* min-height: 700px; << this is optional! */
-    text-align: center;
+    /* text-align: center; */
   }
 
 #hero{
